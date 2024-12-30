@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of 0xReynn - Network and Application Testnet",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I am a passionate blockchain testnet explorer with expertise in testing networks, smart contracts, and decentralized applications (dApps). I contribute to improving blockchain reliability by identifying bugs, ensuring performance, and providing feedback on testnets like Ethereum, Solana, and Layer-2 solutions. With a keen eye for detail and a commitment to innovation, I aim to support the growth of secure and efficient blockchain ecosystems.",
 };
 
 export default function RootLayout({ children }) {
